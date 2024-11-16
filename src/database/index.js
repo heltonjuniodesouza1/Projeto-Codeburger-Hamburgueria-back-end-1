@@ -14,7 +14,7 @@ class Database {
 
   init() {
     this.connection = new Sequelize(
-      'postgresql://postgres:MXFTweLcOKvJppxAdFZGMPThoNYlgBtH@junction.proxy.rlwy.net:27234/railway',
+      'postgresql://postgres:MXfGeUJCASmryQDRQZxfdOfBoaPRtkGb@autorack.proxy.rlwy.net:58939/railway',
     )
     models
       .map((model) => model.init(this.connection))
