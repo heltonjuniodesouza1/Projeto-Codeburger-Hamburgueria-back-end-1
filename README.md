@@ -27,7 +27,7 @@ Gostaria de agradecer ao meu mentor, Rodolfo do Dev Club, pelo seu apoio, orient
 
 <h4>Link:</h4>
 
->Repoditório:https://github.com/heltonjuniodesouza
+>Repoditório:https://github.com/heltonjuniodesouza1
 
 <p>
 #hamburgueria #backend #nodejs #express #typescript #postgresql #sequelize #mongodb #mongoose #docker #jest #mocha #jwt #insomnia #swagger #desenvolvimentodesoftware #tecnologia #aprendizado #crescimento #profissional</p>
